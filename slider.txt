@@ -1,0 +1,43 @@
+        <!--grid five-->
+       <div class="container-fluid section layoutFive">
+            <div class="container">  
+            <h2>HOW WE DO IT.</h2>
+                <h6><i>Lorem ipsum dolor sit amet, consectetur adipiscing elit</i></h6>
+                <div class="redline"></div> 
+    <!-- Wrapper for slides -->
+  
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <div class="carousel-caption">
+                    <h4>TITLE HERE</h4>
+                    <p>Our Technology Offers Your Employees A Configurable Catalogue To Order 3000+ Office Products From Us With An Integrated Order Approval System. Our Delivery Processes Ensure On-time Delivery Of Office Products. Our Analytics Guides Your Decision. Welcome To Our New World.</p> <br> <br>
+                    <a href="#" class="button btnMargin">READ MORE</a>
+                
+            </div>
+        </div>
+        <div class="item">
+            <div class="carousel-caption">
+                
+                    <h4>TITLE HERE</h4>
+                    <p>Our Technology Offers Your Employees A Configurable Catalogue To Order 3000+ Office Products From Us With An Integrated Order Approval System. Our Delivery Processes Ensure On-time Delivery Of Office Products. Our Analytics Guides Your Decision. Welcome To Our New World.</p> <br><br>
+                <a href="#" class="button">READ MORE</a>
+            </div>
+        </div>
+        </div>
+    </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+        <span aria-hidden="true"><img src="img/arrow.png" alt="" class="arrow left"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+        <span aria-hidden="true">
+            <img src="img/arrow.png" alt="" class="arrow right">
+        </span>
+        <span class="sr-only">Next</span>
+    </a>
+
+            </div>
+        </div> <!--grid five end-->

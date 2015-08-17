@@ -1,0 +1,48 @@
+@media screen and (min-width: 992px) and (max-width: 1200px){
+      iframe { width:430px; height: 260px;}
+}
+@media screen and (min-width: 769px) and (max-width: 991px){
+    .layoutThree .title {line-height: 1;}
+    iframe { width:530px; height: 330px;}
+    .youtube-cont .text-left { text-align:center }
+}
+@media screen and (min-width: 641px) and (max-width: 768px){
+     iframe { width:430px; height: 260px;}
+    .youtube-cont .text-left { text-align:center }
+}
+@media screen and (min-width: 481px) and (max-width: 640px){
+body {font-size: 0.8em;}
+.logo {width: 130px;}
+#pagenav ul {display: none !important;}
+      iframe { width:380px; height: 220px;}
+    .youtube-cont .text-left { text-align:center }
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px){
+body {font-size: 0.6em;}
+#pagenav {height: 60px;}
+.logo {width: 100px; position: absolute; top: 20px; left: 20px;}
+.logo.active {width: 90px; top: 10px; left: 14px;}
+.menu-icon.active {right: 15px; top: 15px;}
+    
+h6 {font-size: 8pt;}
+p {font-size: 8pt;}
+h3 {font-size: 8pt;}
+.layoutFive .arrow {width: 10px;}
+.button {margin: 10px;}
+.footer .contact {text-align: left;}
+.menu-icon {position: absolute; top: 22px; right: 20px; cursor: pointer; opacity: 0.60;}
+.pros .border { border-right: none; }
+#pagenav ul {display: none !important;}
+.com-icons {width: 100px;}
+.productIcon img{width: 80px;}
+.logo {width: 80px; margin: 0px;}
+.bt-space {margin-bottom: 5px;}
+
+.layoutThree .title {line-height: 1;}
+.menu-icon {font-size: 12pt; font-weight: 300;}
+#menu ul li a {font-size: 10pt;}
+    iframe { width:250px; height: 180px;}
+    .youtube-cont .text-left { text-align:center }
+}
