@@ -74,7 +74,7 @@
                                     <p class="text-left normal">Logistics function has turned to be an area of competitive differentiator for most industries due to the globalized economies and increasing competitive environment. It has become imperative for organizations to continuously enhance their logistics management practices or make their logistics smarter. 
                                       
                                     </p>
-                                    <p class="normal text-left">Our founder &amp; Chairman Mr. Asokan Sattanathan is the chairing a session on role of Information Technology (IT) in logistics in the “SMART LOGISTICS” conference with the theme as “Ease of Doing Business” on 21 August 2015 at Hotel Grand, New Delhi organized by The Confederation of Indian Industry (CII) through its Institute of Logistics ( IL).</p>
+                                    <p class="normal text-left">Our founder &amp; Chairman Mr. Asokan Sattanathan is chairing a session on role of Information Technology (IT) in logistics in the “SMART LOGISTICS” conference with the theme as “Ease of Doing Business” on 21 August 2015 at Hotel Grand, New Delhi organized by The Confederation of Indian Industry (CII) through its Institute of Logistics ( IL).</p>
  <p class="normal text-left">Watch this space for synopsis of his speech.</p>
                                </div>
                                 
