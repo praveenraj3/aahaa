@@ -70,7 +70,7 @@
                                         
                                          <img src="img/ashok.png" alt="" class="news-mainImg"><br><br></div>
                                     <div class="col-md-7"><br><br><br>
-                                    <h3 class="text-left normal">Chairman to speak on role of  IT in Logistics</h3>
+                                    <h3 class="text-left normal">Chairman to speak on role of IT in Logistics at SMART LOGISTICS conference organized by CII - New Delhi on 21 Aug 2015.</h3>
                                     <p class="text-left normal">Logistics function has turned to be an area of competitive differentiator for most industries due to the globalized economies and increasing competitive environment. It has become imperative for organizations to continuously enhance their logistics management practices or make their logistics smarter. 
                                       
                                     </p>
